@@ -1,0 +1,59 @@
+{
+ "Cartaz": [
+             {
+              "id": 1,
+              "Filme": "Avatar"
+          },
+          {
+              "id": 2,
+              "Filme": "Pantera Negra"
+          },
+          {
+              "id": 3,
+              "Filme": "Adão Negro"
+          },
+          {
+              "id": 4,
+              "Filme": "Noite Infeliz"
+          }
+],
+
+ "Lanches": [
+              {
+
+            "id": 1,
+            "Comida": "Pipoca"
+          },
+          {
+              "id": 2,
+              "Comida": "Suco"
+          },
+          {
+              "id": 3,
+              "Comida": "Hamburguer"
+          },
+          {
+              "id": 4,
+              "Comida": "Cafe"
+          }
+],
+
+  "local": [
+                {
+              "id": 1,
+              "Sala": "Rural"
+          },
+          {
+              "id": 2,
+              "Sala": "Urbana"
+          },
+          {
+              "id": 3,
+              "Sala": "Medieval"
+          },
+          {
+              "id": 4,
+              "Sala": "Alien"
+          }
+]
+}
